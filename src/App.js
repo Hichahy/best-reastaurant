@@ -27,4 +27,5 @@ const App = () => {
 
 //sourceTree is activated
 //conflict2
+//conflict 1
 export default App;
