@@ -26,5 +26,4 @@ const App = () => {
 };
 
 //sourceTree is activated
-
 export default App;
